@@ -3,6 +3,6 @@
 void main()
 {
 printf("hasta la vista");
-printf("hasta la vista");
+printf("ta");
 
 }
